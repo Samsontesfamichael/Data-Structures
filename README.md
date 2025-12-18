@@ -415,7 +415,7 @@ Feel free to:
 
 ---
 
-## � References
+## 📚 References
 
 This implementation is based on concepts and algorithms from:
 
@@ -423,9 +423,13 @@ This implementation is based on concepts and algorithms from:
   - Source: [DS Complete.pdf](https://www.cet.edu.in/noticefiles/280_DS%20Complete.pdf)
   - A comprehensive guide covering fundamental data structures and algorithms
 
+- **Data Structures and Algorithms** - Mount Allison University
+  - Source: [Dsa.pdf](https://mta.ca/~rrosebru/oldcourse/263114/Dsa.pdf)
+  - Course materials by R. Rosebru
+
 ---
 
-## �📝 License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
