@@ -415,7 +415,17 @@ Feel free to:
 
 ---
 
-## 📝 License
+## � References
+
+This implementation is based on concepts and algorithms from:
+
+- **Data Structures Complete Notes** - College of Engineering Trivandrum (CET)
+  - Source: [DS Complete.pdf](https://www.cet.edu.in/noticefiles/280_DS%20Complete.pdf)
+  - A comprehensive guide covering fundamental data structures and algorithms
+
+---
+
+## �📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
