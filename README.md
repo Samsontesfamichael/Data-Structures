@@ -80,7 +80,9 @@ Follow this order for the best learning experience:
 
 ```bash
 # Navigate to the project folder
-cd c:\Users\BIG7\Downloads\Data-Structures
+cd c:\Users\UserName\Directory\Data-Structures
+OR
+cd D/E:\Directory\Data-Structures
 
 # Run a Python example
 python python/data_structures/linked_list.py
