@@ -412,3 +412,23 @@ Feel free to:
 ---
 
 **Happy Coding! 🎉**
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+**Samson Tesfamichael**
+
+- 🌐 Portfolio: [samsontesfamichael.github.io/personalportfolio](https://samsontesfamichael.github.io/personalportfolio)
+- 💻 GitHub: [@Samsontesfamichael](https://github.com/Samsontesfamichael)
+- 📧 Email: samsontesfamichael11@gmail.com
+
+---
+
+⭐ **Star this repository if you find it helpful!**
+
+Made with ❤️ by Samson Tesfamichael
